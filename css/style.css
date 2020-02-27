@@ -9,8 +9,18 @@ h3 {
     text-align: center;
     text-transform: uppercase;
     color: #158483;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 
+a:hover {
+    background-color:  #158483;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
 p {
     font-family: Raleway;
     font-style: normal;
@@ -19,8 +29,11 @@ p {
     line-height: 30px;
     /* or 187% */
     color: #000000;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 
-.col-3 {
-    display: inline;
+span {
+    background: image(img\alba.png)
+    display: block;
 }
