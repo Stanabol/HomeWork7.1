@@ -21,21 +21,21 @@ h3 {
 }
 
 .imgalba {
-    background: url(/img/alba.png)no-repeat;
+    background: url(../img/alba.png)no-repeat;
     height: 600px;
     background-size: cover;
     overflow: hidden;
 }
 
 .imgolivia {
-    background: url(/img/olivia.png)no-repeat;
+    background: url(../img/olivia.png)no-repeat;
     height: 600px;
     background-size: cover;
     overflow: hidden;
 }
 
 .imgflover {
-    background: url(/img/flover.png)no-repeat;
+    background: url(../img/flover.png)no-repeat;
     height: 600px;
     background-size: cover;
     overflow: hidden;
