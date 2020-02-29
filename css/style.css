@@ -14,7 +14,7 @@ h3 {
 }
 
 .imgback {
-    background: url(/img/jackson.png)no-repeat;
+    background: url(../img/jackson.png)no-repeat;
     height: 600px;
     background-size: cover;
     overflow: hidden;
