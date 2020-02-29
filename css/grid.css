@@ -7,7 +7,7 @@
 .container {
     margin: 0 auto;
     /* максимальная ширина контейнера */
-    max-width: 1270px;
+    max-width: 1170px;
     /* 15px это половина gutter-а (половина отступа между колонками) */
     padding: 0 15px;
     width: 100%;
